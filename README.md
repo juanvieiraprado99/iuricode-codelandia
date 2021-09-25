@@ -1,6 +1,6 @@
 # Desafio da 1º semana da Codelândia
 
-![Resultado](assets/img/screen1.png)
+![Resultado](/assets/img/screen1.PNG)
 
 <p>Você pode encontrar os desafios no <a href="https://discord.com/invite/QevDJqCzaY">Discord</a> da Codelândia.</p>
 
