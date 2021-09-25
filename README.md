@@ -1,6 +1,6 @@
 # Desafio da 1º semana da Codelândia
 
-<img src="assets/img/screen1.png" alt="capa codelândia">
+<img src="assets/img/screen1.png" alt="capa codelândia" width="700">
 
 <p>Você pode encontrar os desafios no <a href="https://discord.com/invite/QevDJqCzaY">Discord</a> da Codelândia.</p>
 
