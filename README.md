@@ -4,6 +4,8 @@
 
 <p>Você pode encontrar os desafios no <a href="https://discord.com/invite/QevDJqCzaY">Discord</a> da Codelândia.</p>
 
+<p><a href="https://juanvieiraprado99.github.io/codelandia_01/">Site</a>
+
 ## Ferramentas e Linguagens
 
 * <a href="https://code.visualstudio.com/download">VSCode</a>
